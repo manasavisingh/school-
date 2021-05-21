@@ -1,0 +1,111 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+<link href="https://fonts.googleapis.com/css?family=Cinzel+Decorative&display=swap" rel="stylesheet"> 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<link rel="stylesheet" type="text/css" href="style.css">
+ 
+</head>
+
+<body>
+
+<nav class="navbar-inverse my_nav_bar">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#">Perter Parker</a>
+    </div>
+    
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li><a href="#welcome">HOME</a></li>
+        <li><a href="#achievments">ACHIEVMENTS</a></li>
+        <li><a href="#alumni">ALUMNI</a></li>
+        <li><a href="#contact">CONTACT</a></li>
+        <li><a href="#admission">ADMISSION</a></li>
+        
+      </ul>
+    </div>
+
+</nav>
+
+
+    <section id="welcome">
+        <img src="https://toppersunited.com/wp-content/uploads/2018/12/amity-international-school-logo-1.jpg" class="profile img-circle">
+        <h1 > 
+            <br>
+            <span id="name" >AMITY INTERNATIONAL SCHOOL</span>
+        </h1>
+        <h2 > Amity aims to nurture children who are compassionate, respectful, caring and loving. </h2>
+    </section>
+
+
+    <section id="bio">
+        <h1>Hi!</h1>
+        <div class="line"></div>
+        <p>ABOUT AMITY GROUP
+Amity is one of India's leading educational groups, established under Ritnand Balved Education Foundation (RBEF). RBEF, a non-profit organization registered under the Societies Act-1860, is the umbrella body for all Amity institutions. Driven by the dream to create a world of knowledge par excellence, the foundation is spearheading the activities of the AKC Group of Companies in the field of education. Today, Amity offers educational solutions at every step ranging from pre-nursery to higher education. Encompassing 12,50,000 students, 8 universities, 18 schools and pre-schools, 150 + institutions and global campuses in London, Singapore, New Jersey, California, Mauritius and Romania, Amity is one of the largest educational groups in the country. The Amity Group envisages a complete world of education grooming young minds towards excellence.</p>
+    </section>
+
+<hr>
+    <section id="achievments">
+        <h1>ACHIEVMENTS</h1>
+        <div class="line"></div>
+        <br>
+        <a href="https://amity.edu/ais/virajkhand/blitz.asp" target="_blank"></a>
+        <br>
+        <br>
+
+        
+    </section>
+
+<hr>
+    <section id="alumni" style="width: 100%;">
+        <h1>ALUMNI</h1>
+        <div class="line"></div>
+        <a href="https://amity.edu/ais/virajkhand/alumni_testimonial.asp" target="_blank"><p>CLICK  HERE TO SEE ALUMNI:)</p></a>
+
+    </section>
+
+    <hr>
+
+    <section id="conyact">
+        <h1 style="f">CONTACT</h1>
+        <div class="line"></div>
+        <P>Phone-
++91 8090023892  ;
+            
+        Address-
+Viraj Khand - 5, Gomti Nagar,
+Lucknow, Uttar Pradesh 226010;
+          E-Mail
+principal@aisvk.amity.edu</P>
+        <br>
+        
+    </section>
+    <hr>
+
+<section id="admission">
+    <h1 style="f">ADMISSION</h1>
+    <iframe src="https://amity.edu/ais/virajkhand/admission_procedure.asp" height="450" frameborder="0"  allowfullscreen=""></iframe>
+
+    
+
+    </section>
+
+</body></html>
